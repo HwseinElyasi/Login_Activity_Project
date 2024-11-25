@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="email">Email</string>
+    <string name="send_code">send code</string>
+    <string name="wrong_email">wrong Email?</string>
+    <string name="confirm">confirm</string>
+    <string name="code">code</string>
+    <string name="_00_00">00:00</string>
+    <string name="homefragment">HomeFragment</string>
+</resources>
